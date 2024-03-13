@@ -1,0 +1,21 @@
+
+h1{
+color:lemonchiffon;
+font-style: cursive;
+}
+ body{
+color: #000000;
+background-color: #f1c9fe;
+   
+ }
+img{border: 15px;
+  border-style: double;
+}
+h2{
+  color:ghostwhite;
+  font-family: monospace;
+}
+h3{
+  color:lemonchiffon;
+  font-family:cursive;
+}
